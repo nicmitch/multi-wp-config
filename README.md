@@ -1,2 +1,2 @@
 # multi-wp-config
-Simple multiple enviroment wp-config.php
+Simple multiple enviroments wp-config.php
